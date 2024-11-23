@@ -1,1 +1,1 @@
-default_app_config = 'apps.interests.apps.InterestsConfig'
+default_app_config = 'interests.apps.InterestsConfig'
